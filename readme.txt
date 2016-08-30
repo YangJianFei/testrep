@@ -3,3 +3,4 @@ user1 add info
 user1 seconed add info
 user2 update
 user1 third add info
+user1 git has a mutable index called stage
